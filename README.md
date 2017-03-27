@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This is a smple website project for showing how to use Git and GitHub together.
+This is a smple website project for showing how to use Git and GitHub together.  Add some more text to this file for rebase example.
 
 ## Introduction
 
