@@ -19,4 +19,4 @@ This is a smple web project, deployment can be on any web server or even local f
 Please fork this repository and then issue pull requests for review.
 
 ### Copyright
-2017 James Felz
+2017 James Felz.  All rights reserved.
